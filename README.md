@@ -6,7 +6,7 @@
 
 
 
-Student Helper is a simple Python-based project, which aims to ease the pain of various student-related tasks.
+Student Dashboard is a simple Python-based project, which aims to ease the pain of various student-related tasks.
 
 
 
@@ -142,7 +142,7 @@ String manipulation
 
 
 
-To run the Student Helper project on your machine, you will need to have Python installed. After installing Python, you can download or clone the repository to your local machine. Then, open the terminal or Python IDE and navigate to the directory, where the Student Helper project is located.
+To run the Student Dashboard project on your machine, you will need to have Python installed. After installing Python, you can download or clone the repository to your local machine. Then, open the terminal or Python IDE and navigate to the directory, where the Student Helper project is located.
 
 
 
