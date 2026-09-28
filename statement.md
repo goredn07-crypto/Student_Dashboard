@@ -18,7 +18,7 @@ These calculations could become monotonous and tedious in certain occasions.
 
 
 
-My project, Student Helper, is a compilation of these three functions which could be performed using a single menu driven program.
+My project, Student Dashboard, is a compilation of these three functions which could be performed using a single menu driven program.
 
 
 
@@ -82,7 +82,7 @@ I made this project in order to gain experience in Python by developing an appli
 
 
 
-Student Helper, my project, is a simple Python application which could be used to perform certain basic functions related to academics.
+Student Dashboard, my project, is a simple Python application which could be used to perform certain basic functions related to academics.
 
 
 
